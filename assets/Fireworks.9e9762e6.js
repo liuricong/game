@@ -1,0 +1,1 @@
+import{a as s,j as o}from"./index.d8bf4deb.js";const r="_pyro_kt4vl_1",a="_before_kt4vl_8",e="_after_kt4vl_9",_="_bang_kt4vl_1",n="_gravity_kt4vl_1",i="_position_kt4vl_1",t={pyro:r,before:a,after:e,bang:_,gravity:n,position:i},l=()=>s("div",{className:t.pyro,children:[o("div",{className:t.before}),o("div",{className:t.after})]});export{l as default};
