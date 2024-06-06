@@ -1,1 +1,0 @@
-import{a as s,j as o}from"./index.3f511110.js";const r="_pyro_1ekch_1",t="_before_1ekch_8",a="_after_1ekch_9",c="_bang_1ekch_1",_="_gravity_1ekch_1",n="_position_1ekch_1",e={pyro:r,before:t,after:a,bang:c,gravity:_,position:n},f=()=>s("div",{className:e.pyro,children:[o("div",{className:e.before}),o("div",{className:e.after})]});export{f as default};
