@@ -1,0 +1,1 @@
+import{j as o}from"./index-CjjscxGl.js";const t="_pyro_cypk0_1",r="_before_cypk0_8",e="_after_cypk0_9",a="_bang_cypk0_1",c="_gravity_cypk0_1",_="_position_cypk0_1",s={pyro:t,before:r,after:e,bang:a,gravity:c,position:_},i=()=>o.jsxs("div",{className:s.pyro,children:[o.jsx("div",{className:s.before}),o.jsx("div",{className:s.after})]});export{i as default};
